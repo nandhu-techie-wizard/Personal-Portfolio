@@ -1,0 +1,44 @@
+.education{
+ margin: 5%;
+ text-align: center;
+ color: #85c8f4;
+
+}
+.ed{
+    font-size: large ;
+    color: #85c8f4;
+    text-align: center;
+}
+.education > div:hover {
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+
+.anna{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    margin-top: 2%;
+
+}
+.BE{
+        background: var(--color-bg-variant);
+    border:1px blue solid ;
+    border-radius: 2rem;
+    margin: 2% 8%;
+}
+.HSE{
+    background: var(--color-bg-variant);
+    border:1px blue solid ;
+    border-radius: 2rem;
+    margin: 2% 8%;
+}
+.SSLC{
+    background: var(--color-bg-variant);
+    margin: 2% 8%;
+    border:1px blue solid ;
+    border-radius: 2rem;
+}
